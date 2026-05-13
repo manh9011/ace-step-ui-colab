@@ -75,4 +75,4 @@ First startup may take several minutes.
 After startup you will see a public URL similar to:
 
 ```txt
-https://xxxx.trycloudflare.com
+https://*.prod.colab.dev
