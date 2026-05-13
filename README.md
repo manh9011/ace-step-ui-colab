@@ -3,7 +3,7 @@
 > Run ACE-Step UI directly on Google Colab with automatic setup and public Web UI access.
 
 This notebook installs dependencies automatically and launches the ACE-Step UI entirely inside Google Colab without requiring local installation.
-
+![ACE-Step UI Screenshot](Capture.PNG)
 ---
 
 # 🚀 Features
