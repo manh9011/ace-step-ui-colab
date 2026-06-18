@@ -51,6 +51,7 @@ Open the notebook:
 In Colab:
 
 `Runtime → Change runtime type → GPU`
+⚠️IMPORTANT UPDATE: `Runtime Versions → 2026.04` to have ffmpeg and pytorch compatible with ace-step, otherwise you can only export in FLAC format.
 
 ---
 
